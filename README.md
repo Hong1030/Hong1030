@@ -1,3 +1,5 @@
+
+## ✨ About me
 I'm Jingqi Hong , an undergraduate student majoring in Computer Science and Technology at Southeast University.
 
 东南大学2025级计算机科学与技术专业本科生。
